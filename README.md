@@ -5,13 +5,13 @@ O projeto consiste em desenvolver uma Página de Captura. A página divulga um W
 
 ## :arrow_forward: Resultado do Projeto
 <p align="center">
-  <img src="images/Readme1.gif">
+  <img src="images/Readme1.gif" width="700">
 </p>
 
 ---
 
 <p align="center">
-  <img src="images/Readme.gif">
+  <img src="images/Readme.gif" width="700">
 </p>
 
 ---
