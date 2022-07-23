@@ -1,14 +1,14 @@
-# :computer: Project
-O projeto consiste em desenvolver uma Página de Captura. A página divulga um WorksShop fictício, integrando o formulário com o mailchimp.
+ # :computer: Projeto
+ O projeto consiste em desenvolver uma Página de Captura. A página divulga um WorksShop fictício, integrando o formulário com o mailchimp.
 
-
+---
 
 ## :arrow_forward: Resultado do Projeto
 <p align="center">
   <img src="images/Readme1.gif" width="700">
 </p>
 
----
+##
 
 <p align="center">
   <img src="images/Readme.gif" width="700">
