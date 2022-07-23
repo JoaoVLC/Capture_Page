@@ -3,11 +3,11 @@ O projeto consiste em desenvolver uma Página de Captura. A página divulga um W
 
 ## :arrow_forward: Resultado do Projeto
 <p align="center">
-  <img src="imagens/Readme1.gif">
+  <img src="images/Readme1.gif">
 </p>
 
 <p align="center">
-  <img src="imagens/Readme.gif">
+  <img src="images/Readme.gif">
 </p>
 
 ## :rocket: Tecnologias Utilizadas
