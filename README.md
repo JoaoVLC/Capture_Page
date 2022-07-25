@@ -1,5 +1,5 @@
  # :computer: Projeto
- O projeto consiste em desenvolver uma Página de Captura. A página divulga um WorksShop fictício, integrando o formulário com o mailchimp.
+ O projeto consiste em desenvolver uma Página de Captura. A página divulga um WorkShop fictício, integrando o formulário com o mailchimp.
 
 ---
 
